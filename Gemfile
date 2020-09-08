@@ -9,7 +9,6 @@ gem "pry"
 gem 'colorize'
 gem 'tty-prompt'
 gem 'tty-box'
-gem 'rspotify'
 gem "rake"
 gem "database_cleaner"
 gem "require_all"
